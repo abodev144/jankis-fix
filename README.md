@@ -1,3 +1,5 @@
 # jankis-fix
-chmod +x fix.sh
-sudo ./fix.sh
+1chmod +x fix.sh
+
+
+2sudo ./fix.sh
